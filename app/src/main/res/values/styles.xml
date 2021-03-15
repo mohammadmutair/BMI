@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Text_Style">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:contentDescription">image</item>
+    </style>
+
+    <style name="EditText_Style">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:ems">10</item>
+        <item name="android:inputType">textPersonName</item>
+    </style>
+</resources>
